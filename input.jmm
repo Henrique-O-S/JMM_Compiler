@@ -1,0 +1,28 @@
+import io;
+class Fac{
+
+    int f;
+
+    public int compFac(int num){
+        f = 60;
+        return 2;
+    }
+
+    public boolean gato(int a){
+            return 1;
+        }
+
+    public static void main(String[] args){
+        int[] a;
+        a = new int[5];
+        a[1] = 2;
+        int b;
+        b = 3 + a[1];
+        if(b < a[1]){
+            io.println(1);
+        }
+        else{
+            io.println(0);
+        }
+    }
+}
